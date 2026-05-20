@@ -1,0 +1,22 @@
+
+* {
+    background-color: antiquewhite;
+}
+/* Seleciona h1 e p */
+h1, p {
+    color: blue;
+  
+}
+
+/* Seleciona a dentro de p */
+p a {
+    color: green;
+}
+
+h1 {
+     text-align: center;
+    background-color: black;
+    border-radius: 26px;
+    padding: 1%;
+}
+
