@@ -1,0 +1,38 @@
+* {
+    font-family: Arial;
+    margin: 0%;
+    line-height: 1.8;
+}
+
+h1 {
+    text-align: center;
+    background-color: #febe01;
+}
+
+.divPrimeira,
+.divSegunda {
+    background-color: black;
+    padding: 25px;
+    border-radius: 4px;
+    margin: 20px;
+}
+
+h2 {
+    color: white;
+}
+
+p {
+    color: #b2b2b2;
+}
+
+button {
+    background-color: #febe01;
+    border: none;
+    border-radius: 4px;
+    padding: 8px;
+    margin-top: 18px;
+}
+
+span {
+    color: #febe01;
+}
